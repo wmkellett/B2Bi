@@ -1,6 +1,7 @@
 ## Welcome to B2BiaaS
 
 [Logging in](/docs/LoggingIn.md)
+[Working with Messages](/docs/Messages.md)
 
 <!--You can use the [editor on GitHub](https://github.com/wmkellett/B2Bi/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
