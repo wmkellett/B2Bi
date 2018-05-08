@@ -1,9 +1,9 @@
 Messages page
 
 By default, the Messages page displays the Tile view.
-
-[/images/
-
+<br>
+[/images/B2BiMessagePage1.png]
+<br>
 In Tile view, the main part of the page is an array of tiles containing high-level information about messages from your system and the left column contains some controls for filtering the messages displayed.
 
 You can filter the messages displayed by partner, message ID, message type, and time range.
