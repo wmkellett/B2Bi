@@ -25,6 +25,6 @@ The left column displays a set of tiles (one message per tile) listed in chronol
 
 Click Messages to return to the Tile view of the Messages page.
 
-![Link from Context View to Tile View](../images/B2BiMessagePageContextView2.png)
+![Link from Context View to Tile View](../images/B2BiMessagePageContextView2.png | width=100)
 
 
