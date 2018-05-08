@@ -4,4 +4,4 @@
 2. Enter your username and password. If you can’t remember your password, click “Forgot your password?” and follow the prompts.
 3. Press Sign in.
 
-When you log in successfully, the Messages page is displayed. See <xref to Messages page doc>.
+When you log in successfully, the Messages page is displayed. See [Messages Page](MessagePage.md).
