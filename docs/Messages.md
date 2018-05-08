@@ -1,4 +1,4 @@
-Messages page
+# Messages page
 
 By default, the Messages page displays the Tile view.
 <br>
